@@ -1,0 +1,5 @@
+function notTrue(valor){
+  return !valor
+}
+
+console.log(bothTrue(true));
